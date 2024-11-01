@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Lemaaaaaaa
+- 👋 Hi, I’m Collins
 - 👀 I’m interested in #C #IfcOpenshell #RevitAPI #python
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on transfer of geometry from BIM to FEA
-- 📫 How to reach me lemashoncollins@gmail.com
+- 🌱 Automating construction a task at a time 
+- 📫 How to reach me lemashoncollins@outlook.com
 
 <!---
 Lemaaaaaaa/Lemaaaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
