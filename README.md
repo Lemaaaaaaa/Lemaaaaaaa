@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Collins
-- 👀 I’m interested in #C #IfcOpenshell #RevitAPI #python
 - 🌱 Automating construction a task at a time 
 - 📫 How to reach me lemashoncollins@outlook.com
 
