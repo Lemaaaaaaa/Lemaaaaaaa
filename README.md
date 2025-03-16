@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Collins
-- 🌱 Automating construction a task at a time 
-- 📫 How to reach me lemashoncollins@outlook.com
+🚀 BIM Engineer | Automation & Structural Analysis
+👷‍♂️ Expert in Revit, Dynamo, Revit API, Robot API, Python
 
-<!---
-Lemaaaaaaa/Lemaaaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about BIM automation, structural analysis, and workflow optimization. I develop custom Revit tools, Dynamo scripts, and integrations with Autodesk Robot for seamless design-to-analysis workflows.
